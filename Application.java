@@ -1,12 +1,5 @@
 import student.micro.GreenfootApplication;
 
-//-------------------------------------------------------------------------
-/**
- *  Greenfoot application launcher for program 03 and program 04.
- *
- *  @author Stephen Edwards
- *  @version 2021.09.12
- */
 public class Application
     extends GreenfootApplication
 {
