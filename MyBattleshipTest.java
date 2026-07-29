@@ -1,17 +1,11 @@
 import student.micro.*;
 import static org.assertj.core.api.Assertions.*;
 import student.micro.battleship.*;
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor and integrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of those
-// who do.
-// -- Reema Kapoor (reemak@vt.edu)
-// -------------------------------------------------------------------------
+
 /**
  *  This test class is created to test the methods of each battleship strategy
  *
- *  @author Reema Kapoor(reemak@vt.edu)
+ *  @author Reema Kapoor
  *  @version (2024.10.16)
  */
 public class MyBattleshipTest
