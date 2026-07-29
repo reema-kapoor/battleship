@@ -1,17 +1,11 @@
 import student.micro.battleship.*;
 import student.util.Random;
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor and integrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of those
-// who do.
-// -- Reema Kapoor (reemak@vt.edu)
-//-------------------------------------------------------------------------
+
 /**
  *  This class is created to play the battleship game by
  *  hitting the opponents ships.
  *
- *  @author Reema Kapoor (reemak@vt.edu)
+ *  @author Reema Kapoor
  *  @version (2024.10.15)
  */
 public class MyBattleship
